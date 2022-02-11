@@ -10,6 +10,7 @@
 - [Table of Contents](#contents)
 - [Description](#description)
 - [User Story & Acceptance Criteria](#userStory)
+- [Links](#links)
 - [Images](#images)
 - [Contact](#contact)
 
@@ -57,6 +58,14 @@ WHEN I deploy to Heroku
 THEN I should have proper build scripts for a webpack application
 ```
 
+<a href = "links"></a>
+
+## Links
+
+[Reopsitory](https://github.com/joecliffordofficial/textEditor)
+
+[Heroku Deployment](https://just-another-text-editor-jc.herokuapp.com/)
+
 <a href = "images"></a>
 
 ## Images
@@ -67,3 +76,6 @@ THEN I should have proper build scripts for a webpack application
 
 ## Contact
 
+If you would like to contribute to this code and develop it further please feel free! 
+
+[GitHub](https://github.com/joecliffordofficial)
